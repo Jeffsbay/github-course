@@ -7,4 +7,8 @@ Entendi o que o commit faz e o add.
 
 Vamos continuar o curso
 
-Será que vai dar certo.
+Será que vai dar certo??...
+
+Está no Github...:-D
+
+
